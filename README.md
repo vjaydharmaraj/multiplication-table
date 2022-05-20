@@ -1,18 +1,16 @@
 # multiplication-table
 
--> install gcc compiler into your machine 
--> To check if Compiler is on yiur computer or not
-  * Open cmd prompt
-  >>gcc --version //type in your cmd
+
+>>Install Codeblocks IDE 
 
 
-  * Choose path of source code
-  >>cd desktop/c++projects
+>>Save your project (Example: Table.cpp)
 
 
-  * Compile your code next
-  >>gcc table.cpp
+>>Choose language C/C++
 
 
-  * Execute ur program
-  >>a.out
+>>Click Build and Run Button
+
+
+>>HAPPY CODING!!!
